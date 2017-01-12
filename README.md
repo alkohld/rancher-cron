@@ -137,4 +137,4 @@ Run `make build` to create a new executable.
 
 Run `VERSION=dev make package` to create a new executable and package it into a docker image (which you can then 
 test in rancher), it will be named `socialengine/rancher-cron:dev`. This assumes same docker daemon rancher has 
-access to. 
+access to
